@@ -1,0 +1,47 @@
+p1 { 
+    color: palevioletred; 
+}
+
+h1 { 
+    color: black; 
+    background-color: hotpink;
+}
+
+h3 { 
+    color: crimson;
+    background-color: blueviolet; 
+}
+
+h5 { 
+    color: darkolivegreen;
+    background-color: cornflowerblue; 
+}
+
+img { 
+    width: 400px;
+    border-radius: 100px; 
+}
+
+p { 
+    text-align: center; 
+}
+
+body { 
+    background-color: aquamarine; 
+}
+
+center { 
+    margin-top: 2em 
+}
+
+.read-section {
+    border: 10px solid black;
+}
+
+.input-section {
+    border: 10px solid blue;
+}
+
+.wolf-section {
+    border: 10px solid green;
+}
